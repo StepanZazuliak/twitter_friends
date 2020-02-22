@@ -48,7 +48,7 @@ while True:
 
     fg = folium.FeatureGroup(name="Friends")
 
-    for k in list_film:
+    for k in list_friends:
         lt = k[1]
         ln = k[2]
         friend = k[0]
