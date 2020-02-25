@@ -3,3 +3,5 @@ json
 ssl
 cgi
 binascii
+geopy
+folium
